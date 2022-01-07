@@ -1,2 +1,2 @@
-# vsou.github.io
-gitpage
+# OutbreakNotification
+各卫健委疫情通报信息统计和整理
