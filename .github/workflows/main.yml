@@ -52,10 +52,11 @@ jobs:
       #    echo test, and deploy your project.
 
       # 使用 runners shell 运行单个命令
-      - uses: actions/checkout@v2
-      - name: request and build index.md
+      - name: config set
         run: |
           git config --global user.name 'vsou'
           git config --global user.email 'vsou@users.noreply.github.com'
+      - name: commit
+        run: |
           git commit -am "Automated report"
           git push
