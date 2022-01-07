@@ -55,7 +55,7 @@ jobs:
           yarn start
           git config user.name 'vsou'
           git config user.email 'vsou@users.noreply.github.com'
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+#          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git add .
           git commit -m "deploy"
           git push
