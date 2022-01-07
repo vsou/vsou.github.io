@@ -56,7 +56,11 @@ jobs:
         run: |
           git config --global user.name 'vsou'
           git config --global user.email 'vsou@users.noreply.github.com'
+
       - name: commit
         run: |
+          git add .
           git commit -am "Automated report"
-          git push
+
+      - name: push
+        run:  git push
