@@ -20,5 +20,14 @@ list.push(getLastInfo({
     timeReg: /\s*时间：([^\s<>：]+)\s*<span id="divResulta">/
 }))
 
+// 上海市卫健委
+list.push(getLastInfo({
+    name: '上海市卫健委 疫情通报',
+    url: 'https://wsjkw.sh.gov.cn/xwfb/index.html',
+    listReg: /<ul class="uli16 nowrapli list-date ">\s*<li>\s*<a href="([^"]+)"[^<>]*>\s*([^<>]*新冠肺炎[^<>]*)\s*<\/a>/i,
+    contentReg: /<div id="ivs_content" class="Article_content">([\s\S]+?)<\/div>/i,
+    timeReg: /<small id="ivs_date" class="Article-time">\s*[（(]?\s*([^<>()（）]+)\s*[)）]?\s*<\/small>/
+}))
+
 
 await buildFile(list, 'data.json')

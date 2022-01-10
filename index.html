@@ -27,7 +27,6 @@
         })
 
     function renderItem(item) {
-        let quot = item.tags.join('<br/>').replace(/^<br\s*\/>|<br\s*\/>$/, '');
         let html = '';
         html += '<h2><a href="' + item.parentUrl + '" target="_blank">' + item.name + '🔗</a></h2>'
         html += '<h6>官方发布时间：<a href="' + item.url + '" target="_blank">' + item.releaseTime + '🔗</a> 数据采集时间：' + dataFormat(item.updateTime) + '</h6>'
@@ -38,7 +37,7 @@
             })
         }
         html += '</details>'
-        html += '<blockquot>' + quot + '<div class="copyMsg"></div></blockquot>'
+        html += '<blockquot>' + item.tags.join('<br/>') + '<div class="copyMsg"></div></blockquot>'
         return html;
     }
 
