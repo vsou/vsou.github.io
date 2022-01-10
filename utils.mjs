@@ -108,7 +108,7 @@ export const getQueryString = (queryObj) => {
 }
 
 export const getLastInfo = function (opt) {
-    const {name, url, listReg, contentReg} = opt;
+    const {name, url, listReg, contentReg, timeReg} = opt;
     return action({
         url,
     }).then(({data: {body: listBody}}) => {
@@ -136,6 +136,7 @@ export const getLastInfo = function (opt) {
         }).then(({data: {body: contentBody}}) => {
             if (contentBody) {
                 let contentResult = contentBody.match(contentReg)
+                let time = contentBody.match(timeReg)
                 if (contentResult) {
                     let c = contentResult[1]
                     c = c.replace(/<span[^<>]*>|<\/span>|\s*<br\s*\/?>\s*|\s*style="[^"]*"/ig, '')
@@ -151,6 +152,10 @@ export const getLastInfo = function (opt) {
                     obj.content = contentList
                 } else {
                     console.log('没有匹配到详情')
+                }
+
+                if (time) {
+                    obj.releaseTime = time[1]
                 }
             } else {
                 console.log('内容为空')

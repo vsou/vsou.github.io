@@ -27,8 +27,13 @@
         })
 
     function renderItem(item) {
-        let quot = item.content?.[0]?.match(/(?!其中)([^,\s，。（）()；、含]*)(\d+)例([^,\s，。（）()；、含]*)/g)?.map(item => {
-            if (/本土|境外|疑似/.test(item)) {
+        let quot = item.content?.[0]?.match(/([^,\s，。（）()；、含]*)(\d+)例([^,\s，。（）()；、含]*)/g)?.map(item => {
+
+            // 清除正则未匹配到的多余数据
+            item = item.replace(/其中/g, '')
+            item = item.replace(/和新疆/g, '新疆')
+
+            if (/本土|境外|疑似|无症状/.test(item)) {
                 return '<br/>' + item
             } else {
                 return item;
@@ -36,7 +41,7 @@
         })?.join('<br/>')?.replace(/^<br\s*\/>|<br\s*\/>$/, '');
         let html = '';
         html += '<h2><a href="' + item.parentUrl + '" target="_blank">' + item.name + '🔗</a></h2>'
-        html += '<h6>更新时间：<a href="' + item.url + '" target="_blank">' + dataFormat(item.updateTime) + '🔗</a></h6>'
+        html += '<h6>官方发布时间：<a href="' + item.url + '" target="_blank">' + item.releaseTime + '🔗</a> 数据采集时间：' + dataFormat(item.updateTime) + '</h6>'
         html += '<details><summary>' + item.title + '</summary>'
         if (item.content) {
             item.content.map(item => {
@@ -96,7 +101,7 @@
     function dataFormat(date) {
         let d = new Date(date)
 
-        return `${d.getFullYear()}-${f(d.getMonth() + 1)}-${f(d.getDate())} ${f(d.getHours())}:${f(d.getMinutes())}:${f(d.getSeconds())}`
+        return `${d.getFullYear()}-${f(d.getMonth() + 1)}-${f(d.getDate())} ${f(d.getHours())}:${f(d.getMinutes())}`
 
         function f(num) {
             if (num < 10) {
@@ -114,7 +119,7 @@
     }
 
     .container {
-        padding: 20px;
+        padding: 15px;
         max-width: 1000px;
         margin: 0 auto;
     }
@@ -134,6 +139,10 @@
     p {
         font-size: 14px;
         line-height: 1.5;
+    }
+
+    h6 {
+        font-size: 12px;
     }
 
     blockquot {
