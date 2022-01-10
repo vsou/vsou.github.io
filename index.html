@@ -30,7 +30,7 @@
         let html = '';
         html += '<h2><a href="' + item.parentUrl + '" target="_blank">' + item.name + '</a></h2>'
         html += '<h4><a href="' + item.url + '" target="_blank">' + item.title + '</a></h4>'
-        html += '<h6>更新时间：' + item.updateTime + '</h6>'
+        html += '<h6>更新时间：' + dataFormat(item.updateTime) + '</h6>'
         if (item.content) {
             item.content.map(item => {
                 html += '<p>' + item + '</p>'
@@ -70,6 +70,20 @@
                 break;
         }
     })
+
+    function dataFormat(date) {
+        let d = new Date(date)
+
+        return `${d.getFullYear()}-${f(d.getMonth() + 1)}-${f(d.getDate())} ${f(d.getHours())}:${f(d.getMinutes())}:${f(d.getSeconds())}`
+
+        function f(num) {
+            if (num < 10) {
+                return '0' + num
+            } else {
+                return num.toString()
+            }
+        }
+    }
 </script>
 <style>
     body {

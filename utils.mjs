@@ -116,7 +116,7 @@ export const getLastInfo = function (opt) {
         let obj = {
             name,
             parentUrl: url,
-            updateTime: dataFormat(new Date())
+            updateTime: new Date().getTime()
         }
         if (listBody.includes(`setTimeout("location.replace(location.href.split(\\"#\\")[0])",2000);`)) {
             return new Promise((resolve, reject) => {
@@ -197,18 +197,4 @@ export const buildFile = (list, dataPath, toPath) => {
             console.log('已更新 index.md')
         }
     })
-}
-
-export const dataFormat = (date) => {
-    let d = new Date(date)
-
-    return `${d.getFullYear()}-${f(d.getMonth() + 1)}-${f(d.getDate())} ${f(d.getHours())}:${f(d.getMinutes())}:${f(d.getSeconds())}`
-
-    function f(num) {
-        if (num < 10) {
-            return '0' + num
-        } else {
-            return num.toString()
-        }
-    }
 }
