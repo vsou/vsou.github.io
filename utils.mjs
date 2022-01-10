@@ -150,6 +150,20 @@ export const getLastInfo = function (opt) {
                         contentList = [c]
                     }
                     obj.content = contentList
+
+                    obj.tags = obj.content?.[0]?.match(/([^,\s，。（）()；、含]*)(\d+)例([^,\s，。（）()；、含]*)/g)?.map(item => {
+
+                        // 清除正则未匹配到的多余数据
+                        item = item.replace(/其中/g, '')
+                        item = item.replace(/和新疆/g, '新疆')
+
+                        if (/本土|境外|疑似|无症状/.test(item)) {
+                            return '<br/>' + item
+                        } else {
+                            return item;
+                        }
+                    }) || []
+
                 } else {
                     console.log('没有匹配到详情')
                 }

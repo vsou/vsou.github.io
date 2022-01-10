@@ -18,7 +18,7 @@
     let select = document.querySelector('select')
     let content = document.getElementById('content')
     let data = []
-    fetch('./data.json')
+    fetch('./data.json?v=' + new Date().getTime())
         .then(res => res.json())
         .then(res => {
             data = res;
@@ -27,18 +27,7 @@
         })
 
     function renderItem(item) {
-        let quot = item.content?.[0]?.match(/([^,\s，。（）()；、含]*)(\d+)例([^,\s，。（）()；、含]*)/g)?.map(item => {
-
-            // 清除正则未匹配到的多余数据
-            item = item.replace(/其中/g, '')
-            item = item.replace(/和新疆/g, '新疆')
-
-            if (/本土|境外|疑似|无症状/.test(item)) {
-                return '<br/>' + item
-            } else {
-                return item;
-            }
-        })?.join('<br/>')?.replace(/^<br\s*\/>|<br\s*\/>$/, '');
+        let quot = item.tags.join('<br/>').replace(/^<br\s*\/>|<br\s*\/>$/, '');
         let html = '';
         html += '<h2><a href="' + item.parentUrl + '" target="_blank">' + item.name + '🔗</a></h2>'
         html += '<h6>官方发布时间：<a href="' + item.url + '" target="_blank">' + item.releaseTime + '🔗</a> 数据采集时间：' + dataFormat(item.updateTime) + '</h6>'
