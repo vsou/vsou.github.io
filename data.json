@@ -3,7 +3,7 @@
         "name": "国家卫健委 疫情通报",
         "sort": 0,
         "parentUrl": "http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml",
-        "updateTime": 1641845445454,
+        "updateTime": 1641849041006,
         "url": "http://www.nhc.gov.cn/xcs/yqtb/202201/ebd34e54e91746e68cfdce51cab68542.shtml",
         "title": "截至1月9日24时新型冠状病毒肺炎疫情最新情况",
         "content": [
@@ -47,7 +47,7 @@
         "name": "北京市卫健委 疫情通报",
         "sort": 1,
         "parentUrl": "http://wjw.beijing.gov.cn/xwzx_20031/rdxws/",
-        "updateTime": 1641845446596,
+        "updateTime": 1641849041908,
         "url": "http://wjw.beijing.gov.cn/xwzx_20031/rdxws/202201/t20220110_2586499.html",
         "title": "北京1月9日无新增新冠肺炎确诊病例 新增5例境外输入无症状感染者",
         "content": [
@@ -62,7 +62,7 @@
         "name": "上海市卫健委 疫情通报",
         "sort": 2,
         "parentUrl": "https://wsjkw.sh.gov.cn/xwfb/index.html",
-        "updateTime": 1641845447829,
+        "updateTime": 1641849042348,
         "url": "https://wsjkw.sh.gov.cn/xwfb/20220110/a2922659e5814745ae8d521136741bc3.html",
         "title": "上海2022年1月9日，无新增本土新冠肺炎确诊病例 新增境外输入26例  治愈出院10例",
         "content": [
@@ -92,7 +92,7 @@
         "name": "天津市卫健委 疫情通报",
         "sort": 3,
         "parentUrl": "http://wsjk.tj.gov.cn/XWZX6600/newyqfkdt/",
-        "updateTime": 1641845447670,
+        "updateTime": 1641849042829,
         "url": "http://wsjk.tj.gov.cn/ZTZL1/ZTZL750/YQFKZL9424/FKDT1207/202201/t20220110_5775715.html",
         "title": "全国疫情中高风险地区一览（2022年1月10日）",
         "content": [
@@ -108,7 +108,7 @@
         "name": "河南卫健委 疫情通报",
         "sort": 4,
         "parentUrl": "http://wsjkw.henan.gov.cn/ztzl/xxgzbdfyyqfk/yqtb/",
-        "updateTime": 1641845447259,
+        "updateTime": 1641849042336,
         "url": "http://wsjkw.henan.gov.cn/2022/01-10/2379740.html",
         "title": "截至2022年1月9日24时河南省新型冠状病毒肺炎疫情最新情况",
         "content": [
