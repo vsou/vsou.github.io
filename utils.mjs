@@ -108,13 +108,14 @@ export const getQueryString = (queryObj) => {
 }
 
 export const getLastInfo = function (opt) {
-    const {name, url, listReg, contentReg, timeReg} = opt;
+    const {name, sort, url, listReg, contentReg, timeReg} = opt;
     return action({
         url,
     }).then(({data: {body: listBody}}) => {
         let resultList = listBody.match(listReg)
         let obj = {
             name,
+            sort,
             parentUrl: url,
             updateTime: new Date().getTime()
         }
@@ -135,19 +136,25 @@ export const getLastInfo = function (opt) {
             url: obj.url
         }).then(({data: {body: contentBody}}) => {
             if (contentBody) {
+                contentBody = contentBody.replace(/<table>[\s\S]+?<\/table>/ig, '')
                 let contentResult = contentBody.match(contentReg)
                 let time = contentBody.match(timeReg)
                 if (contentResult) {
                     let c = contentResult[1]
                     c = c.replace(/<span[^<>]*>|<\/span>|\s*<br\s*\/?>\s*|\s*style="[^"]*"/ig, '')
-                    c = c.replace(/\s*<p>\s*<\/p>\s*/ig, '')
-                    c = c.replace(/\s*<p>(&ensp;|&emsp;)*<\/p>\s*/ig, '')
+                    c = c.replace(/\s*<p>(\s|&ensp;|&emsp;)*<\/p>\s*/ig, '')
+                    c = c.replace(/\s*<section>(\s|&ensp;|&emsp;)*<\/section>\s*/ig, '')
                     c = c.trim()
                     let contentList = c.match(/<p[^<>]*>([\s\S]+?)<\/p>/ig)
                     if (contentList) {
                         contentList = contentList.map(item => item.match(/<p[^<>]*>([\s\S]+?)<\/p>/i)[1].trim())
                     } else {
-                        contentList = [c]
+                        contentList = c.match(/<section[^<>]*>([\s\S]+?)<\/section>/ig)
+                        if (contentList) {
+                            contentList = contentList.map(item => item.match(/<section[^<>]*>([\s\S]+?)<\/section>/i)[1].trim())
+                        } else {
+                            contentList = [c]
+                        }
                     }
                     obj.content = contentList
                     if (obj.content.length > 5) {
@@ -174,7 +181,7 @@ export const getLastInfo = function (opt) {
                 }
 
                 if (time) {
-                    obj.releaseTime = time[1]
+                    obj.releaseTime = time[1].trim().replace(/<br\s*\/>|\n/g, '')
                 }
             } else {
                 console.log('内容为空')
@@ -191,6 +198,7 @@ export const buildFile = (list, dataPath, toPath) => {
         let oldPath = path.resolve(dataPath)
         let oldFile = [];
         let file = res.filter(item => item !== undefined)
+            .sort((a, b) => a.sort - b.sort)
 
         if (fs.existsSync(oldPath)) {
             oldFile = JSON.parse(fs.readFileSync(oldPath, {encoding: 'utf-8'}));
