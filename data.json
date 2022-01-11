@@ -47,7 +47,7 @@
         "name": "北京市卫健委 疫情通报",
         "sort": 1,
         "parentUrl": "http://wjw.beijing.gov.cn/xwzx_20031/rdxws/",
-        "updateTime": 1641881679246,
+        "updateTime": 1641885105239,
         "url": "http://wjw.beijing.gov.cn/xwzx_20031/rdxws/202201/t20220111_2588095.html",
         "title": "北京1月10日新增1例境外输入确诊病例  和4例境外输入无症状感染者",
         "content": [
@@ -64,7 +64,7 @@
         "name": "上海市卫健委 疫情通报",
         "sort": 2,
         "parentUrl": "https://wsjkw.sh.gov.cn/xwfb/index.html",
-        "updateTime": 1641881682789,
+        "updateTime": 1641885105457,
         "url": "https://wsjkw.sh.gov.cn/xwfb/20220111/a37aa99ff4af4178bfff4e8d12685c2b.html",
         "title": "上海2022年1月10日，无新增本土新冠肺炎确诊病例 新增境外输入27例  治愈出院4例",
         "content": [
@@ -88,7 +88,7 @@
         "name": "天津市卫健委 疫情通报",
         "sort": 3,
         "parentUrl": "http://wsjk.tj.gov.cn/XWZX6600/newyqfkdt/",
-        "updateTime": 1641881679913,
+        "updateTime": 1641885105874,
         "url": "http://wsjk.tj.gov.cn/ZTZL1/ZTZL750/YQFKZL9424/YQTB7440/202201/t20220111_5775818.html",
         "title": "2022年1月11日天津市新型冠状病毒肺炎疫情情况",
         "content": [
@@ -110,7 +110,7 @@
         "name": "河南卫健委 疫情通报",
         "sort": 4,
         "parentUrl": "http://wsjkw.henan.gov.cn/ztzl/xxgzbdfyyqfk/yqtb/",
-        "updateTime": 1641881679770,
+        "updateTime": 1641885109640,
         "url": "http://wsjkw.henan.gov.cn/2022/01-11/2380637.html",
         "title": "截至2022年1月10日24时河南省新型冠状病毒肺炎疫情最新情况",
         "content": [
@@ -126,5 +126,25 @@
             "2例本土确诊病例治愈出院"
         ],
         "releaseTime": "2022-01-11"
+    },
+    {
+        "name": "陕西省卫健委 疫情通报",
+        "sort": 4,
+        "parentUrl": "http://sxwjw.shaanxi.gov.cn/sy/wjyw/",
+        "updateTime": 1641885106275,
+        "url": "http://sxwjw.shaanxi.gov.cn/sy/wjyw/202201/t20220111_2207104.html",
+        "title": "1月10日陕西新增13例本土确诊病例",
+        "content": [
+            "1月10日0-24时，新增报告本土确诊病例13例（均在西安市，隔离管控中发现）、治愈出院70例。",
+            "自2021年12月9日以来，全省累计报告本土确诊病例2044例（西安市2017例、咸阳市13例、延安市13例、渭南市1例），其中出院426例、在院1618例。",
+            "1月10日0-24时，无新增报告境外输入确诊病例、疑似病例、无症状感染者。",
+            "<strong>本土确诊病例1，</strong>男，28岁，现居西安市长安区，系12月27日发布的本土确诊病例136的密切接触者。12月29日被隔离，1月10日核酸检测结果阳性，经市级专家组诊断为新冠肺炎确诊病例(轻型)。",
+            "<a href=\"http://sxwjw.shaanxi.gov.cn/sy/wjyw/202201/t20220111_2207104.html\" target=\"_blank\">更多信息直接访问卫健委官网🔗</a>"
+        ],
+        "tags": [
+            "新增报告本土确诊病例13例",
+            "治愈出院70例"
+        ],
+        "releaseTime": "2022-01-11 10:09"
     }
 ]
