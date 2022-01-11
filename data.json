@@ -47,7 +47,7 @@
         "name": "北京市卫健委 疫情通报",
         "sort": 1,
         "parentUrl": "http://wjw.beijing.gov.cn/xwzx_20031/rdxws/",
-        "updateTime": 1641899391250,
+        "updateTime": 1641903544867,
         "url": "http://wjw.beijing.gov.cn/xwzx_20031/rdxws/202201/t20220111_2588095.html",
         "title": "北京1月10日新增1例境外输入确诊病例  和4例境外输入无症状感染者",
         "content": [
@@ -64,7 +64,7 @@
         "name": "上海市卫健委 疫情通报",
         "sort": 2,
         "parentUrl": "https://wsjkw.sh.gov.cn/xwfb/index.html",
-        "updateTime": 1641899412523,
+        "updateTime": 1641903545888,
         "url": "https://wsjkw.sh.gov.cn/xwfb/20220111/a37aa99ff4af4178bfff4e8d12685c2b.html",
         "title": "上海2022年1月10日，无新增本土新冠肺炎确诊病例 新增境外输入27例  治愈出院4例",
         "content": [
@@ -88,7 +88,7 @@
         "name": "天津市卫健委 疫情通报",
         "sort": 3,
         "parentUrl": "http://wsjk.tj.gov.cn/XWZX6600/newyqfkdt/",
-        "updateTime": 1641899412457,
+        "updateTime": 1641903545899,
         "url": "http://wsjk.tj.gov.cn/ZTZL1/ZTZL750/YQFKZL9424/YQTB7440/202201/t20220111_5775818.html",
         "title": "2022年1月11日天津市新型冠状病毒肺炎疫情情况",
         "content": [
@@ -110,7 +110,7 @@
         "name": "河南卫健委 疫情通报",
         "sort": 4,
         "parentUrl": "http://wsjkw.henan.gov.cn/ztzl/xxgzbdfyyqfk/yqtb/",
-        "updateTime": 1641899395143,
+        "updateTime": 1641903545505,
         "url": "http://wsjkw.henan.gov.cn/2022/01-11/2380637.html",
         "title": "截至2022年1月10日24时河南省新型冠状病毒肺炎疫情最新情况",
         "content": [
@@ -131,7 +131,7 @@
         "name": "陕西省卫健委 疫情通报",
         "sort": 4,
         "parentUrl": "http://sxwjw.shaanxi.gov.cn/sy/wjyw/",
-        "updateTime": 1641899412862,
+        "updateTime": 1641903546141,
         "url": "http://sxwjw.shaanxi.gov.cn/sy/wjyw/202201/t20220111_2207104.html",
         "title": "1月10日陕西新增13例本土确诊病例",
         "content": [
