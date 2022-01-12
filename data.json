@@ -2,7 +2,7 @@
     {
         "name": "国家卫健委 疫情通报",
         "parentUrl": "http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml",
-        "updateTime": 1641985803691,
+        "updateTime": 1641989980144,
         "url": "http://www.nhc.gov.cn/xcs/yqtb/202201/ff13304174ea422a839fdc801d2c0a9d.shtml",
         "title": "截至1月11日24时新型冠状病毒肺炎疫情最新情况",
         "content": [
@@ -44,7 +44,7 @@
     {
         "name": "北京市卫健委 疫情通报",
         "parentUrl": "http://wjw.beijing.gov.cn/xwzx_20031/rdxws/",
-        "updateTime": 1641985799687,
+        "updateTime": 1641989977663,
         "url": "http://wjw.beijing.gov.cn/xwzx_20031/rdxws/202201/t20220112_2589000.html",
         "title": "北京1月11日新增2例境外输入无症状感染者转确诊病例和2例境外输入无症状感染者",
         "content": [
@@ -85,7 +85,7 @@
     {
         "name": "天津市卫健委 疫情通报",
         "parentUrl": "http://wsjk.tj.gov.cn/XWZX6600/newyqfkdt/",
-        "updateTime": 1641985800723,
+        "updateTime": 1641989978579,
         "url": "http://wsjk.tj.gov.cn/ZTZL1/ZTZL750/YQFKZL9424/YQTB7440/202201/t20220112_5776535.html",
         "title": "2022年1月12日天津市新型冠状病毒肺炎疫情情况",
         "content": [
@@ -104,7 +104,7 @@
     {
         "name": "河南省卫健委 疫情通报",
         "parentUrl": "http://wsjkw.henan.gov.cn/ztzl/xxgzbdfyyqfk/yqtb/",
-        "updateTime": 1641985800345,
+        "updateTime": 1641989978785,
         "url": "http://wsjkw.henan.gov.cn/2022/01-12/2381282.html",
         "title": "截至2022年1月11日24时河南省新型冠状病毒肺炎疫情最新情况",
         "content": [
@@ -123,7 +123,7 @@
     {
         "name": "陕西省卫健委 疫情通报",
         "parentUrl": "http://sxwjw.shaanxi.gov.cn/sy/wjyw/",
-        "updateTime": 1641985801197,
+        "updateTime": 1641989981753,
         "url": "http://sxwjw.shaanxi.gov.cn/sy/wjyw/202201/t20220110_2207014.html",
         "title": "1月9日陕西新增15例本土确诊病例",
         "content": [
@@ -144,7 +144,7 @@
     {
         "name": "广东省卫健委 疫情通报",
         "parentUrl": "http://wsjkw.gd.gov.cn/zwyw_yqxx/index.html",
-        "updateTime": 1641985801040,
+        "updateTime": 1641973534701,
         "url": "http://wsjkw.gd.gov.cn/zwyw_yqxx/content/post_3757891.html",
         "title": "2022年1月12日广东省新冠肺炎疫情情况",
         "content": [
@@ -155,6 +155,21 @@
         "tags": [
             "全省新增本土确诊病例7例",
             "本土无症状感染者1例"
+        ]
+    },
+    {
+        "name": "深圳市卫健委 疫情通报",
+        "parentUrl": "http://wjw.sz.gov.cn/yqxx/",
+        "updateTime": 1641989979044,
+        "url": "http://wjw.sz.gov.cn/yqxx/content/post_9515762.html",
+        "title": "2022年1月12日深圳市新冠肺炎疫情情况",
+        "content": [
+            "1月11日0-24时，深圳新增7例本土确诊病例和1例本土无症状感染者。",
+            "7例本土确诊病例为：",
+            "<a href=\"http://wjw.sz.gov.cn/yqxx/content/post_9515762.html\" target=\"_blank\">更多信息直接访问卫健委官网🔗</a>"
+        ],
+        "tags": [
+            "深圳新增7例本土确诊病例和1例本土无症状感染者"
         ]
     }
 ]
