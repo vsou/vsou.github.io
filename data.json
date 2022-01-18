@@ -33,7 +33,7 @@
             "陕西1例",
             "新增疑似病例3例"
         ],
-        "updateTime": 1642475644816,
+        "updateTime": 1642479397749,
         "url": "http://www.nhc.gov.cn/xcs/yqtb/202201/fd4911d801654e7b8c4ab82c9f5c0997.shtml",
         "title": "截至1月17日24时新型冠状病毒肺炎疫情最新情况",
         "content": [
@@ -51,7 +51,7 @@
             "<br/>新增3例境外输入确诊病例和4例无症状感染者",
             "治愈出院1例"
         ],
-        "updateTime": 1642475641993,
+        "updateTime": 1642479395795,
         "url": "http://wjw.beijing.gov.cn/xwzx_20031/rdxws/202201/t20220118_2593394.html",
         "title": "北京1月17日新增1例本土确诊病例 3例境外输入确诊病例和4例境外输入无症状 感染者 治愈出院1例",
         "content": [
@@ -75,7 +75,7 @@
             "英国1例",
             "加拿大1例"
         ],
-        "updateTime": 1642475642346,
+        "updateTime": 1642479395548,
         "url": "https://wsjkw.sh.gov.cn/xwfb/20220118/3476d92d6917483bbdc1cefde23c9518.html",
         "title": "上海2022年1月17日，无新增本土新冠肺炎确诊病例 新增境外输入17例  治愈出院13例",
         "content": [
@@ -116,7 +116,7 @@
             "<br/>本土1例",
             "境外输入1例"
         ],
-        "updateTime": 1642475642286,
+        "updateTime": 1642479395778,
         "url": "http://wsjkw.henan.gov.cn/2022/01-18/2384175.html",
         "title": "截至2022年1月17日24时河南省新型冠状病毒肺炎疫情最新情况",
         "content": [
@@ -132,7 +132,7 @@
             "新增报告本土确诊病例1例",
             "治愈出院73例"
         ],
-        "updateTime": 1642475643264,
+        "updateTime": 1642479401084,
         "url": "http://sxwjw.shaanxi.gov.cn/sy/wjyw/202201/t20220118_2208104.html",
         "title": "1月17日陕西新增1例本土确诊病例",
         "content": [
@@ -148,7 +148,7 @@
         "tags": [
             "全省新增本土确诊病例5例"
         ],
-        "updateTime": 1642475642867,
+        "updateTime": 1642479396262,
         "url": "http://wsjkw.gd.gov.cn/zwyw_yqxx/content/post_3766461.html",
         "title": "2022年1月18日广东省新冠肺炎疫情情况",
         "content": [
@@ -162,23 +162,23 @@
         "name": "深圳市卫健委 疫情通报",
         "parentUrl": "http://wjw.sz.gov.cn/yqxx/",
         "tags": [
-            "深圳新增2例新冠肺炎确诊病例"
+            "深圳新增境外输入1例确诊病例和1例无症状感染者"
         ],
-        "updateTime": 1642475643026,
-        "url": "http://wjw.sz.gov.cn/yqxx/content/post_9522870.html",
-        "title": "2022年1月17日深圳市新冠肺炎疫情情况",
+        "updateTime": 1642479396510,
+        "url": "http://wjw.sz.gov.cn/yqxx/content/post_9525602.html",
+        "title": "2022年1月18日深圳市新冠肺炎疫情情况",
         "content": [
-            "1月16日0-24时，深圳新增2例新冠肺炎确诊病例。",
-            "<strong>病例16</strong>",
-            "<a href=\"http://wjw.sz.gov.cn/yqxx/content/post_9522870.html\" target=\"_blank\">更多信息直接访问卫健委官网</a>"
+            "1月17日0-24时，深圳新增境外输入1例确诊病例和1例无症状感染者。",
+            "1例境外输入确诊病例为中国籍，1例无症状感染者为新加坡籍。2例均为新加坡输入，1月16日从新加坡乘机抵深。以上病例入境后即被集中隔离，后转至深圳市第三人民医院应急院区观察治疗，情况稳定。",
+            "<a href=\"http://wjw.sz.gov.cn/yqxx/content/post_9525602.html\" target=\"_blank\">更多信息直接访问卫健委官网</a>"
         ],
-        "releaseTime": "2022-01-17 10:44:24"
+        "releaseTime": "2022-01-18 11:11:36"
     },
     {
         "name": "河北省卫健委 疫情通报",
         "parentUrl": "http://wsjkw.hebei.gov.cn/html/yqtb/",
         "tags": [],
-        "updateTime": 1642475643650,
+        "updateTime": 1642479396870,
         "url": "http://wsjkw.hebei.gov.cn/html/yqtb/20220118/385503.html",
         "title": "2022年1月17日河北省新型冠状病毒肺炎疫情情况",
         "content": [
