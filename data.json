@@ -29,7 +29,7 @@
             "<br/>2例由无症状感染者转为确诊病例",
             "新增疑似病例5例"
         ],
-        "updateTime": 1642561865260,
+        "updateTime": 1642565638419,
         "url": "http://www.nhc.gov.cn/xcs/yqtb/202201/b80efd6c7d224d6db3880baaaf71cf72.shtml",
         "title": "截至1月18日24时新型冠状病毒肺炎疫情最新情况",
         "content": [
@@ -47,7 +47,7 @@
             "<br/>和1例无症状感染者",
             "新增5例境外输入确诊病例和1例无症状感染者"
         ],
-        "updateTime": 1642561863173,
+        "updateTime": 1642565636428,
         "url": "http://wjw.beijing.gov.cn/xwzx_20031/rdxws/202201/t20220119_2594715.html",
         "title": "北京1月18日新增1例本土确诊病例、1例本土无症状感染者和5例境外输入确诊病例、1例无症状感染者",
         "content": [
@@ -70,7 +70,7 @@
             "阿联酋1例",
             "英国1例"
         ],
-        "updateTime": 1642561870227,
+        "updateTime": 1642565639542,
         "url": "https://wsjkw.sh.gov.cn/xwfb/20220119/b906e235e521451bb6f609e585df163f.html",
         "title": "上海2022年1月18日,无新增本土新冠肺炎确诊病例 新增境外输入15例  治愈出院13例",
         "content": [
@@ -86,7 +86,7 @@
         "tags": [
             "天津市新增14例本土新冠肺炎确诊病例"
         ],
-        "updateTime": 1642561863568,
+        "updateTime": 1642565637170,
         "url": "http://wsjk.tj.gov.cn/ZTZL1/ZTZL750/YQFKZL9424/YQTB7440/202201/t20220119_5782821.html",
         "title": "2022年1月19日天津市新型冠状病毒肺炎疫情情况",
         "content": [
@@ -108,7 +108,7 @@
             "<br/>本土2例",
             "境外输入1例"
         ],
-        "updateTime": 1642561863736,
+        "updateTime": 1642565636984,
         "url": "http://wsjkw.henan.gov.cn/2022/01-19/2384867.html",
         "title": "截至2022年1月18日24时河南省新型冠状病毒肺炎疫情最新情况",
         "content": [
@@ -135,7 +135,7 @@
             "珠海报告6例",
             "新增本土无症状感染者1例"
         ],
-        "updateTime": 1642561864227,
+        "updateTime": 1642565638257,
         "url": "http://wsjkw.gd.gov.cn/zwyw_yqxx/content/post_3767159.html",
         "title": "2022年1月19日广东省新冠肺炎疫情情况",
         "content": [
@@ -149,23 +149,23 @@
         "name": "深圳市卫健委 疫情通报",
         "parentUrl": "http://wjw.sz.gov.cn/yqxx/",
         "tags": [
-            "深圳新增境外输入1例确诊病例和1例无症状感染者"
+            "深圳新增1例本土确诊病例和1例境外输入无症状感染者"
         ],
-        "updateTime": 1642561864700,
-        "url": "http://wjw.sz.gov.cn/yqxx/content/post_9525602.html",
-        "title": "2022年1月18日深圳市新冠肺炎疫情情况",
+        "updateTime": 1642565638758,
+        "url": "http://wjw.sz.gov.cn/yqxx/content/post_9528166.html",
+        "title": "2022年1月19日深圳市新冠肺炎疫情情况",
         "content": [
-            "1月17日0-24时，深圳新增境外输入1例确诊病例和1例无症状感染者。",
-            "1例境外输入确诊病例为中国籍，1例无症状感染者为新加坡籍。2例均为新加坡输入，1月16日从新加坡乘机抵深。以上病例入境后即被集中隔离，后转至深圳市第三人民医院应急院区观察治疗，情况稳定。",
-            "<a href=\"http://wjw.sz.gov.cn/yqxx/content/post_9525602.html\" target=\"_blank\">更多信息直接访问卫健委官网</a>"
+            "1月18日，深圳新增1例本土确诊病例和1例境外输入无症状感染者。",
+            "1例本土确诊病例为，女，32岁，国际机组人员入驻酒店的保洁人员。近14天处于闭环管理状态，1月1日至14日核酸检测“每天一检”，结果均为阴性；1月14日换班至隔离酒店集中医学观察，核酸检测“两天一检”，1月15日核酸检测为阴性，1月17日初筛呈阳性，1月18日凌晨经市疾控中心复核亦为阳性，已转送至市第三人民医院应急院区隔离治疗，诊断为新冠肺炎确诊病例（普通型）。",
+            "<a href=\"http://wjw.sz.gov.cn/yqxx/content/post_9528166.html\" target=\"_blank\">更多信息直接访问卫健委官网</a>"
         ],
-        "releaseTime": "2022-01-18 11:11:36"
+        "releaseTime": "2022-01-19 12:08:10"
     },
     {
         "name": "河北省卫健委 疫情通报",
         "parentUrl": "http://wsjkw.hebei.gov.cn/html/yqtb/",
         "tags": [],
-        "updateTime": 1642561864933,
+        "updateTime": 1642565639754,
         "url": "http://wsjkw.hebei.gov.cn/html/yqtb/20220119/385534.html",
         "title": "2022年1月18日河北省新型冠状病毒肺炎疫情情况",
         "content": [
