@@ -26,7 +26,7 @@
             "北京1例",
             "新增疑似病例3例"
         ],
-        "updateTime": 1642655441513,
+        "updateTime": 1642659189169,
         "url": "http://www.nhc.gov.cn/xcs/yqtb/202201/d9ec13c4b7c14ab39f81366653bbb382.shtml",
         "title": "截至1月19日24时新型冠状病毒肺炎疫情最新情况",
         "content": [
@@ -44,7 +44,7 @@
             "<br/>和1例无症状感染者转确诊病例",
             "新增1例境外输入确诊病例和2例无症状感染者"
         ],
-        "updateTime": 1642655439156,
+        "updateTime": 1642659185856,
         "url": "http://wjw.beijing.gov.cn/xwzx_20031/rdxws/202201/t20220120_2596115.html",
         "title": "北京1月19日新增2例本土确诊病例、1例本土无症状感染者转确诊病例和1例境外输入确诊病例、2例...",
         "content": [
@@ -71,7 +71,7 @@
             "加拿大1例",
             "法国1例"
         ],
-        "updateTime": 1642655439154,
+        "updateTime": 1642659186310,
         "url": "https://wsjkw.sh.gov.cn/xwfb/20220120/a7245fb658774f7ebf3ad55af8446ad6.html",
         "title": "上海2022年1月19日，无新增本土新冠肺炎确诊病例 新增境外输入14例  治愈出院16例",
         "content": [
@@ -84,18 +84,21 @@
     {
         "name": "天津市卫健委 疫情通报",
         "parentUrl": "http://wsjk.tj.gov.cn/XWZX6600/newyqfkdt/",
-        "tags": [
-            "天津市新增14例本土新冠肺炎确诊病例"
-        ],
-        "updateTime": 1642655439430,
-        "url": "http://wsjk.tj.gov.cn/ZTZL1/ZTZL750/YQFKZL9424/YQTB7440/202201/t20220120_5783995.html",
-        "title": "2022年1月20日天津市新型冠状病毒肺炎疫情情况",
+        "updateTime": 1641973535825,
+        "url": "http://wsjk.tj.gov.cn/ZTZL1/ZTZL750/YQFKZL9424/YQTB7440/202201/t20220112_5776535.html",
+        "title": "2022年1月12日天津市新型冠状病毒肺炎疫情情况",
         "content": [
-            "2022年1月19日0－24时，天津市新增14例本土新冠肺炎确诊病例。无新增境外输入性新冠肺炎确诊病例。无新增本土无症状感染者，无新增境外输入无症状感染者。治愈出院14人（境外输入病例）。",
-            "自2022年1月8日至1月19日，天津市累计报告本土新冠肺炎确诊病例340例，在院340例。累计报告无症状感染者22例，其中尚在医学观察6例，转为确诊病例16例。",
-            "<a href=\"http://wsjk.tj.gov.cn/ZTZL1/ZTZL750/YQFKZL9424/YQTB7440/202201/t20220120_5783995.html\" target=\"_blank\">更多信息直接访问卫健委官网</a>"
+            "截至1月11日，天津市累计报告新型冠状病毒肺炎确诊病例215例，出院病例145例，死亡病例3例，在院67例。",
+            "累计报告境外输入性新型冠状病毒肺炎确诊病例490例，出院病例403例，在院87例。",
+            "<a href=\"http://wsjk.tj.gov.cn/ZTZL1/ZTZL750/YQFKZL9424/YQTB7440/202201/t20220112_5776535.html\" target=\"_blank\">更多信息直接访问卫健委官网🔗</a>"
         ],
-        "releaseTime": "2022-01-20      <span class=\"time\"> 09:00</span>"
+        "tags": [
+            "天津市累计报告新型冠状病毒肺炎确诊病例215例",
+            "出院病例145例",
+            "死亡病例3例",
+            "在院67例"
+        ],
+        "releaseTime": "2022-01-12      <span class=\"time\"> 08:45</span>"
     },
     {
         "name": "河南省卫健委 疫情通报",
@@ -107,7 +110,7 @@
             "许昌市4例",
             "13例本土确诊病例治愈出院"
         ],
-        "updateTime": 1642655439113,
+        "updateTime": 1642659186194,
         "url": "http://wsjkw.henan.gov.cn/2022/01-20/2385488.html",
         "title": "截至2022年1月19日24时河南省新型冠状病毒肺炎疫情最新情况",
         "content": [
@@ -145,7 +148,7 @@
             "<br/>无症状感染者3367例",
             "境外输入2985例"
         ],
-        "updateTime": 1642655439711,
+        "updateTime": 1642659187048,
         "url": "http://wsjkw.gd.gov.cn/zwyw_yqxx/content/post_3767910.html",
         "title": "2022年1月20日广东省新冠肺炎疫情情况",
         "content": [
@@ -159,7 +162,7 @@
         "tags": [
             "新增1例境外输入无症状感染者"
         ],
-        "updateTime": 1642655439637,
+        "updateTime": 1642659187785,
         "url": "http://wjw.sz.gov.cn/yqxx/content/post_9530199.html",
         "title": "2022年1月20日深圳市新冠肺炎疫情情况",
         "content": [
@@ -173,7 +176,7 @@
         "name": "河北省卫健委 疫情通报",
         "parentUrl": "http://wsjkw.hebei.gov.cn/html/yqtb/",
         "tags": [],
-        "updateTime": 1642655439989,
+        "updateTime": 1642659187938,
         "url": "http://wsjkw.hebei.gov.cn/html/yqtb/20220120/385569.html",
         "title": "2022年1月19日河北省新型冠状病毒肺炎疫情情况",
         "content": [
