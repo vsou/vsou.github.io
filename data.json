@@ -25,7 +25,7 @@
             "陕西3例",
             "新增疑似病例1例"
         ],
-        "updateTime": 1642756273711,
+        "updateTime": 1642759913050,
         "url": "http://www.nhc.gov.cn/xcs/yqtb/202201/1094b7a4f45742fcaace74332cab29a3.shtml",
         "title": "截至1月20日24时新型冠状病毒肺炎疫情最新情况",
         "content": [
@@ -39,17 +39,18 @@
         "name": "北京市卫健委 疫情通报",
         "parentUrl": "http://wjw.beijing.gov.cn/xwzx_20031/rdxws/",
         "tags": [
-            "新增5例本土确诊病例",
-            "<br/>新增2例境外输入确诊病例和12例无症状感染者",
-            "治愈出院1例"
+            "本市新增7例本土新冠肺炎确诊病例",
+            "轻型4例",
+            "普通型3例",
+            "新增5例本土新冠肺炎无症状感染者"
         ],
-        "updateTime": 1642756271324,
-        "url": "http://wjw.beijing.gov.cn/xwzx_20031/rdxws/202201/t20220121_2597262.html",
-        "title": "北京1月20日新增5例本土确诊病例  和2例境外输入确诊病例、12例境外输入 无症状感染者 治愈出...",
+        "updateTime": 1642759910477,
+        "url": "http://wjw.beijing.gov.cn/xwzx_20031/rdxws/202201/t20220121_2598015.html",
+        "title": "北京新增7例本土新冠肺炎确诊病例和5例无症状感染者情况及健康提示",
         "content": [
-            "1月20日0时至24时，新增5例本土确诊病例（昨日已通报），无新增疑似病例和无症状感染者；新增2例境外输入确诊病例和12例无症状感染者，无新增疑似病例。治愈出院1例。",
-            "<strong>本土确诊病例</strong>",
-            "<a href=\"http://wjw.beijing.gov.cn/xwzx_20031/rdxws/202201/t20220121_2597262.html\" target=\"_blank\">更多信息直接访问卫健委官网</a>"
+            "1月21日0时至16时，本市新增7例本土新冠肺炎确诊病例，其中轻型4例、普通型3例；新增5例本土新冠肺炎无症状感染者。",
+            "<strong>确诊病例1：</strong>现住海淀区马连洼街道永丰路百旺茉莉园一期，为1月18日通报的确诊病例2的密切接触者。1月17日作为密切接触者转至集中隔离点，期间两次核酸检测结果为阴性，1月21日核酸检测结果为阳性，已转至定点医院，综合流行病史、临床表现、实验室检测和影像学检查等结果，当日诊断为确诊病例，临床分型为轻型。",
+            "<a href=\"http://wjw.beijing.gov.cn/xwzx_20031/rdxws/202201/t20220121_2598015.html\" target=\"_blank\">更多信息直接访问卫健委官网</a>"
         ],
         "releaseTime": "2022-01-21"
     },
@@ -76,7 +77,7 @@
             "墨西哥1例",
             "中国香港1例"
         ],
-        "updateTime": 1642756271138,
+        "updateTime": 1642759915444,
         "url": "https://wsjkw.sh.gov.cn/xwfb/20220121/c9cd679b17a040368b989b50cb46f7fe.html",
         "title": "上海2022年1月20日，无新增本土新冠肺炎确诊病例 新增境外输入28例  治愈出院47例",
         "content": [
@@ -117,7 +118,7 @@
             "<br/>本土19例",
             "境外输入2例"
         ],
-        "updateTime": 1642756271319,
+        "updateTime": 1642759911125,
         "url": "http://wsjkw.henan.gov.cn/2022/01-21/2386085.html",
         "title": "截至2022年1月20日24时河南省新型冠状病毒肺炎疫情最新情况",
         "content": [
@@ -136,7 +137,7 @@
             "重点人群筛查发现1例",
             "治愈出院89例"
         ],
-        "updateTime": 1642756271747,
+        "updateTime": 1642759911732,
         "url": "http://sxwjw.shaanxi.gov.cn/sy/wjyw/202201/t20220121_2208514.html",
         "title": "1月20日陕西新增3例本土确诊病例",
         "content": [
@@ -152,7 +153,7 @@
         "tags": [
             "全省新增本土确诊病例4例"
         ],
-        "updateTime": 1642756271981,
+        "updateTime": 1642759912009,
         "url": "http://wsjkw.gd.gov.cn/zwyw_yqxx/content/post_3768753.html",
         "title": "2022年1月21日广东省新冠肺炎疫情情况",
         "content": [
@@ -168,7 +169,7 @@
         "tags": [
             "新增3例境外输入确诊病例"
         ],
-        "updateTime": 1642756271664,
+        "updateTime": 1642759912391,
         "url": "http://wjw.sz.gov.cn/yqxx/content/post_9533158.html",
         "title": "2022年1月21日深圳市新冠肺炎疫情情况",
         "content": [
@@ -182,7 +183,7 @@
         "name": "河北省卫健委 疫情通报",
         "parentUrl": "http://wsjkw.hebei.gov.cn/html/yqtb/",
         "tags": [],
-        "updateTime": 1642756272055,
+        "updateTime": 1642759912874,
         "url": "http://wsjkw.hebei.gov.cn/html/yqtb/20220121/385592.html",
         "title": "2022年1月20日河北省新型冠状病毒肺炎疫情情况",
         "content": [
