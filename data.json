@@ -25,7 +25,7 @@
             "陕西3例",
             "新增疑似病例1例"
         ],
-        "updateTime": 1642752804423,
+        "updateTime": 1642756273711,
         "url": "http://www.nhc.gov.cn/xcs/yqtb/202201/1094b7a4f45742fcaace74332cab29a3.shtml",
         "title": "截至1月20日24时新型冠状病毒肺炎疫情最新情况",
         "content": [
@@ -43,7 +43,7 @@
             "<br/>新增2例境外输入确诊病例和12例无症状感染者",
             "治愈出院1例"
         ],
-        "updateTime": 1642752802764,
+        "updateTime": 1642756271324,
         "url": "http://wjw.beijing.gov.cn/xwzx_20031/rdxws/202201/t20220121_2597262.html",
         "title": "北京1月20日新增5例本土确诊病例  和2例境外输入确诊病例、12例境外输入 无症状感染者 治愈出...",
         "content": [
@@ -76,7 +76,7 @@
             "墨西哥1例",
             "中国香港1例"
         ],
-        "updateTime": 1642752805159,
+        "updateTime": 1642756271138,
         "url": "https://wsjkw.sh.gov.cn/xwfb/20220121/c9cd679b17a040368b989b50cb46f7fe.html",
         "title": "上海2022年1月20日，无新增本土新冠肺炎确诊病例 新增境外输入28例  治愈出院47例",
         "content": [
@@ -89,18 +89,21 @@
     {
         "name": "天津市卫健委 疫情通报",
         "parentUrl": "http://wsjk.tj.gov.cn/XWZX6600/newyqfkdt/",
-        "tags": [
-            "天津市新增8例本土新冠肺炎确诊病例"
-        ],
-        "updateTime": 1642752802751,
-        "url": "http://wsjk.tj.gov.cn/ZTZL1/ZTZL750/YQFKZL9424/YQTB7440/202201/t20220121_5785024.html",
-        "title": "2022年1月21日天津市新型冠状病毒肺炎疫情情况",
+        "updateTime": 1641973535825,
+        "url": "http://wsjk.tj.gov.cn/ZTZL1/ZTZL750/YQFKZL9424/YQTB7440/202201/t20220112_5776535.html",
+        "title": "2022年1月12日天津市新型冠状病毒肺炎疫情情况",
         "content": [
-            "2022年1月20日0－24时，天津市新增8例本土新冠肺炎确诊病例。无新增境外输入性新冠肺炎确诊病例。无新增本土无症状感染者，无新增境外输入无症状感染者。治愈出院5人（境外输入病例）。",
-            "自2022年1月8日至1月20日，天津市累计报告本土新冠肺炎确诊病例348例，在院348例。累计报告无症状感染者22例，其中尚在医学观察6例，转为确诊病例16例。",
-            "<a href=\"http://wsjk.tj.gov.cn/ZTZL1/ZTZL750/YQFKZL9424/YQTB7440/202201/t20220121_5785024.html\" target=\"_blank\">更多信息直接访问卫健委官网</a>"
+            "截至1月11日，天津市累计报告新型冠状病毒肺炎确诊病例215例，出院病例145例，死亡病例3例，在院67例。",
+            "累计报告境外输入性新型冠状病毒肺炎确诊病例490例，出院病例403例，在院87例。",
+            "<a href=\"http://wsjk.tj.gov.cn/ZTZL1/ZTZL750/YQFKZL9424/YQTB7440/202201/t20220112_5776535.html\" target=\"_blank\">更多信息直接访问卫健委官网🔗</a>"
         ],
-        "releaseTime": "2022-01-21      <span class=\"time\"> 08:50</span>"
+        "tags": [
+            "天津市累计报告新型冠状病毒肺炎确诊病例215例",
+            "出院病例145例",
+            "死亡病例3例",
+            "在院67例"
+        ],
+        "releaseTime": "2022-01-12      <span class=\"time\"> 08:45</span>"
     },
     {
         "name": "河南省卫健委 疫情通报",
@@ -114,7 +117,7 @@
             "<br/>本土19例",
             "境外输入2例"
         ],
-        "updateTime": 1642752802733,
+        "updateTime": 1642756271319,
         "url": "http://wsjkw.henan.gov.cn/2022/01-21/2386085.html",
         "title": "截至2022年1月20日24时河南省新型冠状病毒肺炎疫情最新情况",
         "content": [
@@ -133,7 +136,7 @@
             "重点人群筛查发现1例",
             "治愈出院89例"
         ],
-        "updateTime": 1642752804538,
+        "updateTime": 1642756271747,
         "url": "http://sxwjw.shaanxi.gov.cn/sy/wjyw/202201/t20220121_2208514.html",
         "title": "1月20日陕西新增3例本土确诊病例",
         "content": [
@@ -149,7 +152,7 @@
         "tags": [
             "全省新增本土确诊病例4例"
         ],
-        "updateTime": 1642752804828,
+        "updateTime": 1642756271981,
         "url": "http://wsjkw.gd.gov.cn/zwyw_yqxx/content/post_3768753.html",
         "title": "2022年1月21日广东省新冠肺炎疫情情况",
         "content": [
@@ -165,7 +168,7 @@
         "tags": [
             "新增3例境外输入确诊病例"
         ],
-        "updateTime": 1642752805128,
+        "updateTime": 1642756271664,
         "url": "http://wjw.sz.gov.cn/yqxx/content/post_9533158.html",
         "title": "2022年1月21日深圳市新冠肺炎疫情情况",
         "content": [
@@ -179,7 +182,7 @@
         "name": "河北省卫健委 疫情通报",
         "parentUrl": "http://wsjkw.hebei.gov.cn/html/yqtb/",
         "tags": [],
-        "updateTime": 1642752806060,
+        "updateTime": 1642756272055,
         "url": "http://wsjkw.hebei.gov.cn/html/yqtb/20220121/385592.html",
         "title": "2022年1月20日河北省新型冠状病毒肺炎疫情情况",
         "content": [
