@@ -35,7 +35,7 @@
             "河南1例",
             "新增疑似病例1例"
         ],
-        "updateTime": 1643569700535,
+        "updateTime": 1643573480895,
         "url": "http://www.nhc.gov.cn/xcs/yqtb/202201/a19ffdd25c32479893822addee618669.shtml",
         "title": "截至1月29日24时新型冠状病毒肺炎疫情最新情况",
         "content": [
@@ -82,7 +82,7 @@
             "法国1例",
             "俄罗斯1例"
         ],
-        "updateTime": 1643569697761,
+        "updateTime": 1643573477245,
         "url": "https://wsjkw.sh.gov.cn/xwfb/20220130/19ec1975957b42d7847cd486a19ef18b.html",
         "title": "上海2022年1月29日，无新增本土新冠肺炎确诊病例 新增境外输入10例  治愈出院30例",
         "content": [
@@ -98,7 +98,7 @@
         "tags": [
             "天津市新增4例本土新冠肺炎确诊病例"
         ],
-        "updateTime": 1643569698696,
+        "updateTime": 1643573478016,
         "url": "http://wsjk.tj.gov.cn/ZTZL1/ZTZL750/YQFKZL9424/YQTB7440/202201/t20220130_5794507.html",
         "title": "2022年1月30日天津市新型冠状病毒肺炎疫情情况",
         "content": [
@@ -119,7 +119,7 @@
             "<br/>新增境外输入确诊病例2例",
             "38例本土确诊病例治愈出院"
         ],
-        "updateTime": 1643569697517,
+        "updateTime": 1643573477250,
         "url": "http://wsjkw.henan.gov.cn/2022/01-30/2393103.html",
         "title": "截至2022年1月29日24时河南省新型冠状病毒肺炎疫情最新情况",
         "content": [
@@ -155,7 +155,7 @@
             "新增出院5例",
             "目前在院204例"
         ],
-        "updateTime": 1643569698867,
+        "updateTime": 1643573478109,
         "url": "http://wsjkw.gd.gov.cn/zwyw_yqxx/content/post_3803775.html",
         "title": "2022年1月30日广东省新冠肺炎疫情情况",
         "content": [
@@ -168,7 +168,7 @@
         "name": "深圳市卫健委 疫情通报",
         "parentUrl": "http://wjw.sz.gov.cn/yqxx/",
         "tags": [],
-        "updateTime": 1643569698631,
+        "updateTime": 1643573478330,
         "url": "http://wjw.sz.gov.cn/yqxx/content/post_9550972.html",
         "title": "2022年1月30日深圳市新冠肺炎疫情情况",
         "content": [
@@ -182,14 +182,14 @@
         "name": "河北省卫健委 疫情通报",
         "parentUrl": "http://wsjkw.hebei.gov.cn/html/yqtb/",
         "tags": [],
-        "updateTime": 1642011635884,
-        "url": "http://wsjkw.hebei.gov.cn/html/yqtb/20220112/385368.html",
-        "title": "2022年1月11日河北省新型冠状病毒肺炎疫情情况",
+        "updateTime": 1643573478533,
+        "url": "http://wsjkw.hebei.gov.cn/html/yqtb/20220130/385824.html",
+        "title": "2022年1月29日河北省新型冠状病毒肺炎疫情情况",
         "content": [
-            "2022年1月11日0—24时，河北省无新增本土新型冠状病毒肺炎确诊病例，无新增本土无症状感染者。",
-            "截至1月11日24时，河北省现有本土确诊病例0例；尚在医学观察本土无症状感染者0例。",
-            "<a href=\"http://wsjkw.hebei.gov.cn/html/yqtb/20220112/385368.html\" target=\"_blank\">更多信息直接访问卫健委官网</a>"
+            "2022年1月29日0—24时，河北省无新增本土新型冠状病毒肺炎确诊病例，无新增本土无症状感染者。",
+            "截至1月29日24时，河北省现有本土确诊病例11例；尚在医学观察本土无症状感染者0例。",
+            "<a href=\"http://wsjkw.hebei.gov.cn/html/yqtb/20220130/385824.html\" target=\"_blank\">更多信息直接访问卫健委官网</a>"
         ],
-        "releaseTime": "2022-01-12 08:11:03"
+        "releaseTime": "2022-01-30 08:12:49"
     }
 ]
