@@ -29,7 +29,7 @@
             "北京2例",
             "河北1例"
         ],
-        "updateTime": 1643775224573,
+        "updateTime": 1643778625003,
         "url": "http://www.nhc.gov.cn/xcs/yqtb/202202/be4b2a0a70494c43863407ad17816f63.shtml",
         "title": "截至2月1日24时新型冠状病毒肺炎疫情最新情况",
         "content": [
@@ -47,7 +47,7 @@
             "<br/>新增1例境外输入确诊病例和4例无症状感染者",
             "治愈出院2例"
         ],
-        "updateTime": 1643775223005,
+        "updateTime": 1643778623021,
         "url": "http://wjw.beijing.gov.cn/xwzx_20031/rdxws/202202/t20220202_2604843.html",
         "title": "北京2月1日新增2例本土确诊病例和1例境外输入确诊病例、4例境外输入无症状感染者 治愈出院2例",
         "content": [
@@ -79,7 +79,7 @@
             "刚果1例",
             "瑞士1例"
         ],
-        "updateTime": 1643775223066,
+        "updateTime": 1643778622770,
         "url": "https://wsjkw.sh.gov.cn/xwfb/20220202/29c270babc624be1938ec359c3119f95.html",
         "title": "上海2022年2月1日，无新增本土新冠肺炎确诊病例 新增境外输入18例  治愈出院38例 解除医学观察无症状感染者1例",
         "content": [
@@ -95,7 +95,7 @@
         "tags": [
             "天津市新增12例本土新冠肺炎确诊病例"
         ],
-        "updateTime": 1643775223653,
+        "updateTime": 1643778623446,
         "url": "http://wsjk.tj.gov.cn/ZTZL1/ZTZL750/YQFKZL9424/YQTB7440/202202/t20220202_5796074.html",
         "title": "2022年2月2日天津市新型冠状病毒肺炎疫情情况",
         "content": [
@@ -113,7 +113,7 @@
             "<br/>36例本土确诊病例治愈出院",
             "1例境外输入无症状感染者解除医学观察"
         ],
-        "updateTime": 1643775222876,
+        "updateTime": 1643778623055,
         "url": "http://wsjkw.henan.gov.cn/2022/02-02/2393702.html",
         "title": "截至2022年2月1日24时河南省新型冠状病毒肺炎疫情最新情况",
         "content": [
@@ -145,7 +145,7 @@
             "新增出院23例",
             "目前在院169例"
         ],
-        "updateTime": 1643775223611,
+        "updateTime": 1643778623614,
         "url": "http://wsjkw.gd.gov.cn/zwyw_yqxx/content/post_3804623.html",
         "title": "2022年2月2日广东省新冠肺炎疫情情况",
         "content": [
@@ -158,18 +158,18 @@
         "name": "深圳市卫健委 疫情通报",
         "parentUrl": "http://wjw.sz.gov.cn/yqxx/",
         "tags": [
-            "深圳新增1例本土确诊病例",
-            "4例境外输入确诊病例"
+            "深圳新增2例本土确诊病例和1例本土无症状感染者",
+            "“0131”疫情累计报告4例"
         ],
-        "updateTime": 1643775224064,
-        "url": "http://wjw.sz.gov.cn/yqxx/content/post_9552152.html",
-        "title": "2022年2月1日深圳市新冠肺炎疫情情况",
+        "updateTime": 1643778623837,
+        "url": "http://wjw.sz.gov.cn/yqxx/content/post_9552366.html",
+        "title": "2022年2月2日深圳市新冠肺炎疫情情况",
         "content": [
-            "1月31日0-24时，深圳新增1例本土确诊病例，4例境外输入确诊病例。",
-            "1例本土确诊病例为女性，45岁，宝安区石岩街道某公司牙模设计员，居住在东莞市凤岗镇保利百合花园，诊断为新冠肺炎确诊病例（轻型）。目前已转送至深圳市第三人民医院隔离治疗，情况稳定。",
-            "<a href=\"http://wjw.sz.gov.cn/yqxx/content/post_9552152.html\" target=\"_blank\">更多信息直接访问卫健委官网</a>"
+            "2月1日0-24时，深圳新增2例本土确诊病例和1例本土无症状感染者。“0131”疫情累计报告4例。",
+            "<strong>　　01、3个新增病例均在密接者和重点人群中发现</strong>",
+            "<a href=\"http://wjw.sz.gov.cn/yqxx/content/post_9552366.html\" target=\"_blank\">更多信息直接访问卫健委官网</a>"
         ],
-        "releaseTime": "2022-02-01 10:57:44"
+        "releaseTime": "2022-02-02 12:23:59"
     },
     {
         "name": "河北省卫健委 疫情通报",
@@ -177,7 +177,7 @@
         "tags": [
             "河北省新增本土新型冠状病毒肺炎确诊病例1例"
         ],
-        "updateTime": 1643775225003,
+        "updateTime": 1643778624397,
         "url": "http://wsjkw.hebei.gov.cn/html/yqtb/20220202/385887.html",
         "title": "2022年2月1日河北省新型冠状病毒肺炎疫情情况",
         "content": [
