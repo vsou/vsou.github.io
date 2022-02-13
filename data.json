@@ -27,7 +27,7 @@
             "广东1例",
             "1例由无症状感染者转为确诊病例"
         ],
-        "updateTime": 1644739988037,
+        "updateTime": 1644743483184,
         "url": "http://www.nhc.gov.cn/xcs/yqtb/202202/3007548c955b4bc7ab9f9c81aaa7d522.shtml",
         "title": "截至2月12日24时新型冠状病毒肺炎疫情最新情况",
         "content": [
@@ -44,7 +44,7 @@
             "新增2例境外输入确诊病例",
             "治愈出院12例"
         ],
-        "updateTime": 1644739984763,
+        "updateTime": 1644743480317,
         "url": "http://wjw.beijing.gov.cn/xwzx_20031/rdxws/202202/t20220213_2608785.html",
         "title": "北京2月12日新增2例境外输入确诊病例 治愈出院12例",
         "content": [
@@ -71,7 +71,7 @@
             "德国1例",
             "中国香港1例"
         ],
-        "updateTime": 1644739988529,
+        "updateTime": 1644743484733,
         "url": "https://wsjkw.sh.gov.cn/xwfb/20220213/a4826463bee5402abbda98b7b75e91bf.html",
         "title": "上海2022年2月12日，无新增本土新冠肺炎确诊病例 新增境外输入9例  治愈出院11例 解除医学观察无症状感染者1例",
         "content": [
@@ -108,7 +108,7 @@
             "<br/>36例本土确诊病例治愈出院",
             "1例境外输入无症状感染者解除医学观察"
         ],
-        "updateTime": 1644739984559,
+        "updateTime": 1644743480742,
         "url": "http://wsjkw.henan.gov.cn/2022/02-13/2397379.html",
         "title": "截至2022年2月12日24时河南省新型冠状病毒肺炎疫情最新情况",
         "content": [
@@ -151,7 +151,7 @@
             "<br/>无症状感染者3521例",
             "境外输入3138例"
         ],
-        "updateTime": 1644739985729,
+        "updateTime": 1644743481557,
         "url": "http://wsjkw.gd.gov.cn/zwyw_yqxx/content/post_3813796.html",
         "title": "2022年2月13日广东省新冠肺炎疫情情况",
         "content": [
@@ -163,17 +163,17 @@
         "name": "深圳市卫健委 疫情通报",
         "parentUrl": "http://wjw.sz.gov.cn/yqxx/",
         "tags": [
-            "新增11例境外输入确诊病例和2例无症状感染者"
+            "深圳新增1例本土确诊病例和9例境外输入确诊病例"
         ],
-        "updateTime": 1644739986503,
-        "url": "http://wjw.sz.gov.cn/yqxx/content/post_9570364.html",
-        "title": "2022年2月12日深圳市新冠肺炎疫情情况",
+        "updateTime": 1644743481788,
+        "url": "http://wjw.sz.gov.cn/yqxx/content/post_9570501.html",
+        "title": "2022年2月13日深圳市新冠肺炎疫情情况",
         "content": [
-            "2月11日0-24时，深圳无本土新增病例，新增11例境外输入确诊病例和2例无症状感染者。",
-            "11例境外输入确诊病例，10例中国籍、1例韩国籍，其中香港输入9例，印尼输入1例，韩国输入1例。抵深后纳入闭环管理，后转送至深圳市第三人民医院隔离治疗，情况稳定。",
-            "<a href=\"http://wjw.sz.gov.cn/yqxx/content/post_9570364.html\" target=\"_blank\">更多信息直接访问卫健委官网</a>"
+            "2月12日0-24时，深圳新增1例本土确诊病例和9例境外输入确诊病例。",
+            "9例境外输入确诊病例均为中国籍，为香港输入，抵深后纳入闭环管理，后转送至深圳市第三人民医院隔离治疗，情况稳定。",
+            "<a href=\"http://wjw.sz.gov.cn/yqxx/content/post_9570501.html\" target=\"_blank\">更多信息直接访问卫健委官网</a>"
         ],
-        "releaseTime": "2022-02-12 12:17:36"
+        "releaseTime": "2022-02-13 16:36:10"
     },
     {
         "name": "河北省卫健委 疫情通报",
@@ -181,7 +181,7 @@
         "tags": [
             "治愈出院2例"
         ],
-        "updateTime": 1644739986566,
+        "updateTime": 1644743482138,
         "url": "http://wsjkw.hebei.gov.cn/html/yqtb/20220213/386085.html",
         "title": "2022年2月12日河北省新型冠状病毒肺炎疫情情况",
         "content": [
